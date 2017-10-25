@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.com.springdata.springdata_mongodb.repository.ItemRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.367 sec - in co.com.springdata.springdata_mongodb.repository.ItemRepositoryTest
